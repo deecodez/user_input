@@ -6,7 +6,6 @@ class HomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    String? firstNameValue;
     final firstName = TextEditingController();
     final lastName = TextEditingController();
     final email = TextEditingController();
